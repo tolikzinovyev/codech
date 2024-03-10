@@ -1,0 +1,9 @@
+cc_binary(
+    name = "a",
+    srcs = ["a.cc"],
+)
+
+cc_binary(
+    name = "b",
+    srcs = ["b.cc"],
+)
